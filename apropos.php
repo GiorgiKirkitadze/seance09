@@ -12,5 +12,7 @@
     <p>Identifiant MMI : <strong>mmi25a07</strong></p>
     <p>Prénom : <strong>Giorgi</strong></p>
     <p>Nom : <strong>Kirkitadze</strong></p>
+    <p>Mis en ligne le : <?php echo date("d/m/Y H:i"); ?></p>
+
 </body>
 </html>
